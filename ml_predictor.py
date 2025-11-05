@@ -44,8 +44,8 @@ class NDVIVariablePredictor:
         # --- START VEDAS API INTEGRATION PLACEHOLDER ---
         
         # Replace these with your actual VEDAS API key and endpoint
-        VEDAS_API_KEY = "YOUR_VEDAS_API_KEY"
-        VEDAS_ENDPOINT = "YOUR_VEDAS_API_ENDPOINT"
+        VEDAS_API_KEY = "1TVUpE-sbaC72Tj9-yNIpA"
+        VEDAS_ENDPOINT = "https://vedas.sac.gov.in/vconsole/register_consumer"
         
         # Example API call structure (you will need to adjust parameters)
         # api_url = f"{VEDAS_ENDPOINT}/data?lat={lat}&lon={lon}&key={VEDAS_API_KEY}"
